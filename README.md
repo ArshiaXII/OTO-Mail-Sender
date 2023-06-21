@@ -23,7 +23,6 @@ In the "E-mail Content" field, enter the content of your e-mail. This field can 
 Click the "Send E-mail" button. You will see a message box confirming that the e-mail was sent successfully.
 
 
-5. "Security" başlığı ve paragrafı:
 
 # Security
 Please note that storing sensitive data like passwords in plain text is generally a bad practice. This application is meant to be a simple demonstration and does not implement any form of secure password handling. If you wish to expand on this project, consider implementing more secure methods of handling passwords.
